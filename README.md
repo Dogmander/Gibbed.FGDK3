@@ -15,3 +15,5 @@ Rick Gibbed - Original programmer
 20kdc - Aditional programming
 
 DKDave - For writing the original Noesis script and helping figuring out the formats
+
+Frontier Developments - For creating the games
